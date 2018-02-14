@@ -1,0 +1,23 @@
+{
+  "name": "summernote-typescript",
+  "version": "0.8.9",
+  "description": "TypeScript definition for summernote",
+  "main": "summernote/summernote.d.ts",
+  "files": [
+    "summernote"
+  ],
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "typescript",
+    "summernote"
+  ],
+  "author": "Eman Development & Design",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eman1986/TypeScript-Summernote/issues"
+  },
+  "homepage": "https://github.com/eman1986/TypeScript-Summernote",
+  "repository": "git@github.com:eman1986/TypeScript-Summernote.git"
+}

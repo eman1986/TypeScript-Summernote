@@ -2,12 +2,9 @@
 TypeScript definition for summernote ( http://summernote.org )
 
 # Info
-There was no TypeScript definition file for summernote yet, so I created one.
-It still needs work but it allowed me already to build my TypeScript .ts files.
+There was no TypeScript definition file for summernote yet, so wstaelens created one.
 
-Summernote api is available via: http://summernote.org/deep-dive/#api
-
-Needs more help!
+He didn't know how to make an NPM package so I took the liberty to do so after he gave me permission to.
 
 # Note
 Any help is welcome!
